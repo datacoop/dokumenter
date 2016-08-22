@@ -73,3 +73,152 @@ Eventuelt
 <valberg> laver en doodle for bestyrelsen
 
 Snak om fast "arbejdsdag" og arbejde på Bornhack
+
+
+IRC log
+-------
+
+```
+5:15:52 PM - benjaoming: Vi er ved at være klar her på Mellemrummet!
+5:16:40 PM * sbc er også klar :)
+5:17:03 PM * benjaoming Åbner lige vedtægterne
+5:17:09 PM * graffen er her både fysisk, virtuelt og sikkert også åndeligt
+5:17:16 PM - valberg: jeg tror ikke vi får decibyte_ med :P
+5:18:18 PM * rvense lurker lige med
+5:20:32 PM - graffen: valberg: skal jeg joine jer ovre ved jeres bord?
+5:20:58 PM - benjaoming: graffen: ja, kom :)
+5:21:01 PM - valberg: graffen: du er velkommen
+5:21:35 PM - benjaoming: Vi har fået besøg af nyt medlem, Victor hedder han.. han skal lige smide en p-billet på sin bil, så lige 2 min mere...
+5:21:44 PM - benjaoming: https://github.com/datacoop/dokumenter/blob/master/vedt%C3%A6gter.rst
+5:22:02 PM - benjaoming: Dagsorden er som følger:
+5:22:02 PM - benjaoming:     Valg af dirigent og referent.
+5:22:02 PM - benjaoming:     Bestyrelsens beretning.
+5:22:02 PM - benjaoming:     Fremlæggelse af regnskab, budget og kontingent.
+5:22:02 PM - benjaoming:     Indkomne forslag. Forslag skal være modtaget af bestyrelsen senest en uge før generalforsamlingen.
+5:22:02 PM - benjaoming:     Godkendelse af vedtægtsændringer og Acceptable Use Policy
+5:22:02 PM - benjaoming:     Valg (Jf. § 3)
+5:22:02 PM - benjaoming:     Eventuelt
+5:23:05 PM * benjaoming stiller som dirigent
+5:23:13 PM - graffen: *klap klap klap klap*
+5:23:46 PM * benjaoming konstaterer, at jeg er valgt som dirigent
+5:24:01 PM - graffen: Refaratet er vel selvskrivende i form af log herfra?
+5:24:26 PM * sbc skal gerne lave en kort sammenskrivning af loggen, som måske er mere hurtigt læst for folk som ikke er her.
+5:24:43 PM - sbc: (Afhængigt hvor meget der egentlig kommer til at foregå i dag.)
+5:25:19 PM - benjaoming: Jeg vil gerne konstatere, at der er indkaldt rettidigt og at alle deltagere på IRC enten er fysisk til stede her på Mellemrummet eller har verificeret deres ident gennem PGP
+5:25:51 PM - benjaoming: Til stede er: graffen, valberg, benjaoming, sbc og Victor (AFK).
+5:27:12 PM - benjaoming: Vi går til første pkt, Bestyrelsens Beretning! v/ valberg
+5:27:18 PM - valberg: Bestyrelsens beretning: Der er egentlig ikke noget at berette eftersom der siden første bestyrelsesmøde ikke er sket noget som helst. Vi er dog nogen der satte os ned her for et par uge siden og besluttede os for at nu ville vi komme i gang, og faktisk få noget for hånden.
+5:27:42 PM - valberg: Derfor har vi indkaldt til den her GF
+5:29:36 PM - valberg: Det vi talte om til det omtalte møde var at vi skulle til at få gang i noget Proof of Concept og få gang i noget email service.
+5:30:22 PM - valberg: Dertil har vi besluttet at vi starter på en cloud baseret løsning, DigitalOcean, for ikke at lade os begrænse af at vi skal have fysisk hardware før vi kommer i gang.
+5:32:06 PM - valberg: Endvidere har vi snakket meget om at det vi får lavet bliver noget vi kan reproducere, dvs. bruge en teknologi som Ansible for at have alt "nedskrevet"
+5:34:22 PM - valberg: Derudover har benjaoming og valberg snakket om at gå i gang med at lave et "medlemssystem" for at kunne have et eller andet sted hvor folk kan "signe up".
+5:35:28 PM - valberg: benjaoming har også agiteret for at lave en bankkonto. Begge dele (medlemssystem og bankkonto) er lidt for at binde os til at faktisk få lavet noget
+5:36:39 PM - valberg: Det var vidst det for beretningen :)
+5:36:44 PM - valberg: Kommentarer?
+5:36:58 PM - sbc: Det lyder godt alt sammen! :)
+5:37:27 PM - valberg: Fedt!
+5:38:01 PM - benjaoming: Næste pkt. er "Fremlæggelse af regnskab, budget og kontingent."
+5:38:38 PM - benjaoming: Der konstateres, at der ikke er indkrævet kontingent, og vi ikke har en bankkonto eller økonomiske aktiviteter.... ENDNU!!!
+5:38:53 PM - benjaoming: Der er derfor intet at berette
+5:39:10 PM - benjaoming: Kommentarer?
+5:39:19 PM - graffen: Jeg foreslår at punktet bortfalder  for denne gang men at bestyrelsen holder foreningen opdateret når der sker noget
+5:40:01 PM - valberg: Enig
+5:40:06 PM - valberg: sbc: Hvad siger du?
+5:40:21 PM - sbc: Hvem betaler for cloud-hosting hvis vi ikke skraber penge sammen nu? Er der en af jer der ligger ud på foreningens vegne?
+5:40:56 PM - valberg: sbc: det er mig der betaler til at begynde med :)
+5:40:59 PM - sbc: Hvis det er sådan, så fint med mig, dem der er aktive skal bare ikke yderligere lide økonomisk under deres aktivitet.
+5:41:05 PM - sbc: valberg, ok :)
+5:41:25 PM - graffen: sbc: enig
+5:41:34 PM * sbc betaler gerne (når der er mulighed for det). Men manglende konto skal ikke stoppe en god aktivitet nu.
+5:41:44 PM - valberg: præcis
+5:42:01 PM - benjaoming: Der er stemning for at refundere valberg når foreningen har en reel økonomisk indtægt, dvs. sandsynligvis kontingent.
+5:42:12 PM - sbc: præcis!
+5:43:02 PM - benjaoming: Super, nice pointeret sbc.. synes helt klart at vi skal have gang i ting, selvom de koster penge... men gør det des vigtigere at få kontingenter også!
+5:43:15 PM - benjaoming: Næste pkt er **Indkomne forslag**. Forslag skal være modtaget af bestyrelsen senest en uge før generalforsamlingen.
+5:43:30 PM - benjaoming: Der er ikke modtaget nogen forslag.
+5:44:01 PM - benjaoming: Næste pkt: *Godkendelse af vedtægtsændringer og Acceptable Use Policy*
+5:45:09 PM - benjaoming: Vi har desværre ikke forfattet noget endnu, valberg foreslår, at vi får fjernet dette fra vedtægterne ved næste GF
+5:45:25 PM - valberg: dvs. "Acceptable Use Policy" delen
+5:45:51 PM - benjaoming: yes!
+5:45:58 PM - graffen: Jeg er enig. Det giver ikke mening at have en Acceptible Use Policy når vi ikke har nogen tjenester endnu
+5:46:17 PM - benjaoming: Næste pkt: *Valg (Jf. § 3)*
+5:46:59 PM - graffen: Hvor mange i den eksisterende bestyrelse genopstiller IKKE?
+5:47:57 PM - benjaoming: Yes, vi starter med "En bestyrelse på 5 personer" og som graffen siger skal vi lige have styr på, hvem der sidder i bestyrelsen og hvem der ikke genopstiller.
+5:48:10 PM - valberg: Bestyrelsesmedlemmer der ikke genopstiller: Christian Panton, Henrik Kramshøj
+5:48:40 PM - valberg: Bestyrelsessuppleanter: Henrik Chulu, Troels Møller
+5:48:47 PM - valberg: (der ikke genopstiller)
+5:49:09 PM - valberg: Revisoren Simon Shine genopstiller heller ikke, ej heller revisor suppleanten Thomas Steen Rasmussen
+5:49:38 PM - valberg: Jeg stiller op igen, og det er jeg rimelig sikker på at decibyte_ også gør
+5:49:46 PM - valberg: sbc: gør du?
+5:49:49 PM - sbc: ja
+5:50:03 PM * benjaoming stiller også gerne op til hvad der er behov for
+5:50:10 PM - graffen: Og jeg også gerne
+5:50:25 PM - valberg: Så har vi de fem bestyrelsesmedlemmer
+5:50:34 PM - sbc: Revisor ser vi ud til at mangle?
+5:50:52 PM - valberg: yup og bestyrelsessuppleanter
+5:50:57 PM - sbc: (eller kan revisor også være bestyrelsesmedlem)?
+5:51:13 PM - graffen: *klapklapklap*
+5:51:18 PM - valberg: sbc: det tror jeg ikke sådan helt formelt
+5:51:23 PM - benjaoming: Victor (AFK) stiller op som suppleant
+5:51:35 PM - sbc: Fantastisk :)
+5:51:40 PM - valberg: s/Victor/Viktor
+5:51:49 PM - sbc: Forhåbentligt ikke som permanent AFK :)
+5:52:20 PM - sbc: valberg, Hvis vedtægterne ikke taler imod revisor som bestyrelsesmedlem samtidig, så er det måske en ide, hvis vi ikke kan få fyldt paldserne?
+5:52:32 PM - valberg: sbc: ja det er fint med mig
+5:52:36 PM - sbc: ... medmidnre I kan fange nogen i baren, som kan overtale for en øl :)
+5:52:52 PM - valberg: sbc: Viktor siger at han har en computer - så han er ikke AFK permanent :)
+5:53:58 PM - valberg: kunne vi evt. se om vi kan finde en udenfor generalforsamling?
+5:54:45 PM - valberg: jeg vil gerne spørge Simon Shine og om han har lyst igen
+5:55:53 PM - benjaoming: Enig! Skal vi ikke ordne det via mail til data.coop mailing listen? Den modtager alle medlemmer, så vi kan nemt blive enige dér.
+5:56:26 PM - benjaoming: +1 for Simon Shine
+5:56:39 PM - valberg: benjaoming: jo det lyder som en fin idé
+5:56:44 PM - graffen: +1 for Simon og for benjaomings forslag
+5:57:32 PM - valberg: Er der nogen indvendinger imod de opstillede?
+5:57:32 PM - benjaoming: Er dette pkt afsluttet?
+5:57:47 PM - sbc: kan jeg ikke lige få en liste over hvem der præcis er opstillet / valgt?
+5:57:53 PM - valberg: sbc: jo
+5:57:58 PM - sbc: og hvem der er på "dem overtaler vi når vi finder dem" listen
+5:58:04 PM - sbc: ... og hvilke poster der ikke er besat :)
+5:59:02 PM - benjaoming: decibyte_: genvalgt
+5:59:02 PM - benjaoming: benjaoming: ny
+5:59:02 PM - benjaoming: valberg: genvalgt
+5:59:02 PM - benjaoming: sbc: ny
+5:59:02 PM - benjaoming: graffen: ny
+5:59:02 PM - benjaoming: Viktor (AFK): suppleant
+5:59:02 PM - benjaoming: Simon Shine: forhåbentligvis revisor (skrives via mailing listen)
+5:59:53 PM - benjaoming: Er der nogen indvendininger mod dette?
+6:00:03 PM - valberg: egentlig mangler vi en 2. supplean
+6:00:04 PM - valberg: t
+6:00:15 PM - sbc: Nej. Men jeg bemærker først nu at vi ikke har nogen "kasserer" post direkte. Det er en opgave bestyrelsen fordeler mellem sig?
+6:00:19 PM - valberg: men det synes jeg også vi kan finde senere
+6:00:26 PM - benjaoming: sbc: korrekt!
+6:00:36 PM - valberg: sbc: ja - Panton blev valgt på sidste møde
+6:00:37 PM - sbc: ok :)
+6:00:46 PM - valberg: https://github.com/datacoop/bestyrelsen/blob/master/m%C3%B8dereferater/data-coop-referat-20140930.md
+6:01:06 PM - sbc: cool
+6:01:52 PM - benjaoming: cool!
+6:02:12 PM - benjaoming: Så er vi nået til sidste punkt: *Eventuelt*
+6:02:34 PM - valberg: jeg foreslår at vi laver en doodle for bestyrelsen
+6:02:45 PM - valberg: og afholder et møde hvor vi har god tid så snart som muligt
+6:03:36 PM - sbc: valberg, Fint!
+6:03:58 PM - valberg: Jeg laver en doodle
+6:04:17 PM - valberg: Viktor foreslår at lave en fast dag hvor man mødes og laver ting
+6:05:42 PM - benjaoming: Jeg kunne godt tænke mig, at vi laver noget til Bornhacks, hvem kommer der?
+6:06:34 PM * sbc kommer ikke. Det lyder dog enormt hyggeligt!
+6:06:37 PM - valberg: s/Bornhacks/Bornhack
+6:06:38 PM - valberg: :P
+6:07:28 PM - valberg: Jeg foreslår at vi kan aftale arbejdsformer til bestyrelsesmødet? Evt. med et udkast
+6:08:54 PM - valberg: Jeg vil gerne lave et udkast
+6:09:45 PM - sbc: Sejt!
+6:09:46 PM - valberg: benjaoming går i gang med at lave noget papirarbejde i forhold til at få en bankkonto
+6:10:22 PM - graffen: super
+6:10:47 PM - benjaoming: Og skriver mail ud til alle vedr. plan for at få medlemmer til Bornhackssss
+6:10:54 PM - valberg: s/ssss//
+6:11:05 PM - benjaoming: Mødet er hævet!
+6:11:09 PM - valberg: fedt! jeg laver en doodle i aften
+6:11:11 PM - sbc: :)
+6:11:13 PM - graffen: Supergodt
+6:11:34 PM - benjaoming: I kan skrive frit, vi sender ikke alt efterfølgende!
+6:11:59 PM - sbc: I *heart* Windows ME
+```
