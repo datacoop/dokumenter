@@ -3,9 +3,9 @@ Generalforsamling i data.coop
 
 *Søndag d. 26. juni 2016*
 
-Referent: *Alle* (se IRC-log nederst)
-Opsummering: Søren Bredlund Caspersen alias ``<sbc>``
-Dirigent: Benjamin Bach alias ``<benjaoming>``
+- Referent: *Alle* (se IRC-log nederst)
+- Opsummering: Søren Bredlund Caspersen alias ``<sbc>``
+- Dirigent: Benjamin Bach alias ``<benjaoming>``
 
 Dagsorden
 ---------
@@ -64,11 +64,11 @@ Valg (Jf. § 3)
 
 Valgte bestyrelse:
 
-* ``decibyte_`` Mikkel Munch Mortensen
-* ``benjaoming`` Benjamin Bach
-* ``valberg`` Víðir Valberg Guðmundsson
-* ``sbc`` Søren Bredlund Caspersen
-* ``graffen`` Jesper
+* ``<decibyte_>`` Mikkel Munch Mortensen
+* ``<benjaoming>`` Benjamin Bach
+* ``<valberg>`` Víðir Valberg Guðmundsson
+* ``<sbc>`` Søren Bredlund Caspersen
+* ``<graffen>`` Jesper
 
 Simon Shine var ikke tilstede på mødet, men vi håber han kan overtales
 til revisor posten.
@@ -79,7 +79,7 @@ Der blev ikke valgt: 2 suppleanter for bestyrelsen
 Eventuelt
 ---------
 
-<valberg> laver en doodle for bestyrelsen
+``<valberg>`` laver en doodle for bestyrelsen
 
 Snak om fast "arbejdsdag" og arbejde på Bornhack
 
