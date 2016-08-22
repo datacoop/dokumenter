@@ -1,0 +1,82 @@
+Referent: (alle, IRC-log) - formelt: Søren Bredlund Caspersen <s@compadre.dk>
+
+Referat af Generalforsamling i data.coop søndag d. 26. juni 2016
+
+Valg af dirigent og referent
+----------------------------
+
+<benjaoming> belv valgt som dirigent.
+<sbc> skriver kort referat, til at supplere irc-log.
+
+Bestyrelsens beretning
+----------------------
+
+```
+<valberg> Bestyrelsens beretning: Der er egentlig ikke noget at berette
+eftersom der siden første bestyrelsesmøde ikke er sket noget som helst.
+Vi er dog nogen der satte os ned her for et par uge siden og besluttede
+os for at nu ville vi komme i gang, og faktisk få noget for hånden.
+<valberg> Derfor har vi indkaldt til den her GF
+<valberg> Det vi talte om til det omtalte møde var at vi skulle til at
+få gang i noget Proof of Concept og få gang i noget email service.
+<valberg> Dertil har vi besluttet at vi starter på en cloud baseret
+løsning, DigitalOcean, for ikke at lade os begrænse af at vi skal have
+fysisk hardware før vi kommer i gang.
+<valberg> Endvidere har vi snakket meget om at det vi får lavet bliver
+noget vi kan reproducere, dvs. bruge en teknologi som Ansible for at
+have alt "nedskrevet"
+<valberg> Derudover har benjaoming og valberg snakket om at gå i gang
+med at lave et "medlemssystem" for at kunne have et eller andet sted
+hvor folk kan "signe up".
+<valberg> benjaoming har også agiteret for at lave en bankkonto. Begge
+dele (medlemssystem og bankkonto) er lidt for at binde os til at faktisk
+få lavet noget
+<valberg> Det var vidst det for beretningen :)
+```
+
+Fremlæggelse af regnskab, budget og kontingent
+----------------------------------------------
+
+Da der ikke er nogen foreningskonto eller økonomiske aktiviteter
+bortfaldt punktet.
+Kort diskussion / afklaring, som endte med at <valberg> starter med at
+lægge ud for hosting, men bliver kompenseret af foreningen, når denne
+har indtægt (altså kontingenter).
+
+
+Indkomne forslag
+----------------
+
+Ingen indkomne forslag.
+
+
+Godkendelse af vedtægtsændringer og Acceptable Use Policy
+---------------------------------------------------------
+
+Ingen vedtægtsændringer eller AUP. Så intet til referat. Det blev talt
+om måske at fjerne AUP-delen fra vedtægterne, men intet besluttet.
+
+
+Valg (Jf. § 3)
+--------------
+
+Valgte bestyrelse:
+
+* decibyte_
+* benjaoming
+* valberg
+* sbc
+* graffen
+
+Simon Shine var ikke tilstede på mødet, men vi håber han kan overtales
+til revisor posten.
+
+Der blev ikke valgt: 2 suppleanter for bestyrelsen
+
+
+Eventuelt
+---------
+
+<valberg> laver en doodle for bestyrelsen
+
+Snak om fast "arbejdsdag" og arbejde på Bornhack
