@@ -4,14 +4,25 @@ Generalforsamling i data.coop
 *Søndag d. 26. juni 2016*
 
 Referent: *Alle* (se IRC-log nederst)
-Opsummering: Søren Bredlund Caspersen <s@compadre.dk>
+Opsummering: Søren Bredlund Caspersen alias ``<sbc>``
+Dirigent: Benjamin Bach alias ``<benjaoming>``
 
+Dagsorden
+---------
+
+#. Valg af dirigent og referent.
+#. Bestyrelsens beretning.
+#. Fremlæggelse af regnskab, budget og kontingent.
+#. Indkomne forslag. Forslag skal være modtaget af bestyrelsen senest en uge før generalforsamlingen.
+#. Godkendelse af vedtægtsændringer og Acceptable Use Policy
+#. Valg (Jf. § 3)
+#. Eventuelt
 
 Valg af dirigent og referent
 ----------------------------
 
-<benjaoming> belv valgt som dirigent.
-<sbc> skriver kort referat, til at supplere irc-log.
+- ``<benjaoming>`` belv valgt som dirigent.
+- ``<sbc>`` skriver kort referat, til at supplere irc-log.
 
 Bestyrelsens beretning
 ----------------------
@@ -53,11 +64,11 @@ Valg (Jf. § 3)
 
 Valgte bestyrelse:
 
-* decibyte_
-* benjaoming
-* valberg
-* sbc
-* graffen
+* ``decibyte_`` Mikkel Munch Mortensen
+* ``benjaoming`` Benjamin Bach
+* ``valberg`` Víðir Valberg Guðmundsson
+* ``sbc`` Søren Bredlund Caspersen
+* ``graffen`` Jesper
 
 Simon Shine var ikke tilstede på mødet, men vi håber han kan overtales
 til revisor posten.
